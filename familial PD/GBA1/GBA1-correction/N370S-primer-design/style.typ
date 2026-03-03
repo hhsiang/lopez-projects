@@ -5,7 +5,7 @@
     margin: (
       top: 1in,
       bottom: 1.25in,
-      x: 1.25in
+      x: 0.75in
     ),
     numbering: "1",
     number-align: right
@@ -30,6 +30,8 @@
   )
   
   set list(marker: [--])
+
+  set highlight(fill: rgb("#dfddde"))
   
   show title: set text(size: 20pt)
   
@@ -43,7 +45,9 @@
 
   set table(stroke: none)
 
-  show table: set text(size: 9pt)
+  show table: set text(size: 8pt)
+
+  show table: set align(left)
 
   set enum(numbering: "1.")
 
