@@ -1,5 +1,3 @@
-= Project objective and criteria:
-
 Construct a battery of tests to demonstrate recovery of functional defects in patient-derived hiPSC dopaminergic neurons following correction of _GBA1_ mutation(s) _in vitro_. Stem cell--derived neurons harboring _GBA1_ L444P and N370S mutations have been extensively characterized (see Schondorf et al., 2014; Aflaki et al., 2016; Grigor'eva et al., 2023). Here, I have given preference to robust, reliably demonstrated phenotypes.
 
 The final battery of tests is briefly outlined below; the following section (2.) contains a rationale, method, and citations for each test.

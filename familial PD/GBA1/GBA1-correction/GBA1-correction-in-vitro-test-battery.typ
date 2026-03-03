@@ -1,7 +1,8 @@
 #import "style.typ": project
 #show: project
 
-= Project objective and criteria:
+= Project objective and criteria: 
+#include "intro.typ"
 
 #table(
   columns: (3.5fr, 2fr, 1.5fr, 3fr),
