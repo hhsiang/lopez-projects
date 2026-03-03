@@ -2,7 +2,8 @@
 #show: project
 
 = Project objective and criteria:
-Construct a battery of _in vitro_ tests to demonstrate recovery of functional defects in patient-derived hiPSC dopaminergic neurons following correction of _GBA1_ mutation(s). The final battery of tests is briefly outlined below; the following section contains a rationale, method, and citation for each test. Preference is given to robust, reliably demonstrated phenotypes, especially those that have been published in dopaminergic neurons or models carrying relevant _GBA1_ mutations. One notable reference is Schondorf et al. (2014), which rigorously characterized _GBA1_ L444P and N370S Parkinson's patient-derived iPSC dopaminergic neurons.
+
+#include "intro.typ"
 
 #table(
   columns: (3.5fr, 2fr, 1.5fr, 3fr),
