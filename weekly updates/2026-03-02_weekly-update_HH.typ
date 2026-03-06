@@ -23,7 +23,7 @@ I consulted with Dr. Song to draft a suitable graphical abstract for incorporati
 
 = Cell culture
 
-I also began my training to culture fibroblasts and hiPSCs with Dr. Song and Dr. Matveeva. I observed media changes last week and on Monday, and on Tuesday I observed Dr. Matveeva passaging two 6-cm. dishes of PD05 mR01 hiPSCs.
+I also began my training to culture fibroblasts and hiPSCs with Dr. Song and Dr. Matveeva. I observed media changes last week and on Monday, and on Tuesday I observed Dr. Matveeva passaging two 6-cm. dishes of PD05 mR01 hiPSCs. On Wednesday, I passaged PD05 mR03 hiPSCs 1:1 into two 6-cm. dishes under Dr. Song and Dr. Matveeva's observation. 
 
 = Other tasks
 

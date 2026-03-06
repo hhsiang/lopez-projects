@@ -43,7 +43,7 @@
 
   set table(stroke: none)
 
-  show table: set text(size: 9pt)
+  show table: set text(size: 8pt)
 
   set enum(numbering: "1.")
 
