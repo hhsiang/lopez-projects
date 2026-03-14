@@ -16,7 +16,7 @@ On Tuesday, I harvested one dish (\#4) of PD07 fibroblasts and extracted gDNA, y
 
 = Cell culture
 
-_Cell work:_ Throughout the week, I fed and passaged the hiPSCs (PD05-eB01R11, eB01R42, mR01, and mR03) and fibroblasts (PD07) alongside Bin and Tatyana. Unfortuantely, two of the lines did not survive the passaging Bin and I conducted on Wednesday: PD05-eB01R42 and PD05-mR01. On discussion, Bin, Tatyana, and I decided to test for mycoplasma and bacterial contamination. The BacT is negative as of Saturday (14Mar26). Tanner ran the mycoplasma PCR, and on Saturday I ran the PCR gel to determine that #text(fill: red)[result]. On Friday, I harvested PD05-eB01R11 for karyotyping, which is stored in Bin's box in the -80$degree$C (label: #text(font: "New Computer Modern Mono")[PD05-eB01R11 13Mar26]); I harvested mR03 on Saturday and passaged the PD07-FB at various seeding densities to begin reprogramming on Monday (16Mar26). The resulting cryovials were kept in the Mr. Frosty overnight and will be moved to the liquid nitrogen once we believe it is sufficiently safe for our existing stocks.
+_Cell work:_ Throughout the week, I fed and passaged the hiPSCs (PD05-eB01R11, eB01R42, mR01, and mR03) and fibroblasts (PD07) alongside Bin and Tatyana. Unfortuantely, two of the lines did not survive the passaging Bin and I conducted on Wednesday: PD05-eB01R42 and PD05-mR01. On discussion, Bin, Tatyana, and I decided to test for mycoplasma and bacterial contamination. The BacT is negative as of Saturday (14Mar26). On Friday, I harvested PD05-eB01R11 for karyotyping, which is stored in Bin's box in the -80$degree$C (label: #text(font: "New Computer Modern Mono")[PD05-eB01R11 13Mar26]); I harvested mR03 (two vials: #text(font: "New Computer Modern Mono")[PD05-mR03 P10 hiPSC 14Mar26]) on Saturday and passaged the PD07-FB at various seeding densities to begin reprogramming on Monday (16Mar26). The resulting cryovials were kept in the Mr. Frosty overnight and will be moved to the liquid nitrogen once we believe it is sufficiently safe for our existing stocks. These are detailed in the worksheets on my LabArchives.
 
 _Other TC preparation:_ I prepared 12 40-mL aliquots of fresh NutriStem (Lot: 253102012, expiry 21Jan27) and stored them in the TC freezer. I created an updated inventory spreadsheet with a responsive calculator to determine working dilutions for TC reagents (#text(font:"New Computer Modern Mono")[TC work > TC reagents and supplies > "Cell culture reagents for research.xlsx"] on Teams); and I created a (hopefully) more accurate template for printing CryoTag labels. I made up fresh 70% IPA and learned how to care for the TC equipment from Tatyana and Bin. I reviewed iPSC reprogramming protocols and began drafting an updated worksheet; I also copied and revised several existing worksheets, available on Teams with #text(font: "New Computer Modern Mono")["- HH"] appended to the file names.
 
@@ -31,3 +31,15 @@ Bin also asked me to prepare a \~30-minute presentation on _GBA1_ and the planne
 #image("GBA1-primer-stock-dilution-math.png")
 
 #image("PD07-HC2-gDNA_PCR-gel_10Mar26.png")
+
+#pagebreak()
+#table(columns: 2,
+stroke: 0.5pt,
+[#image("lab-meeting_GBA1_23Mar26-1.png")],
+[#image("lab-meeting_GBA1_23Mar26-4.png")],
+[#image("lab-meeting_GBA1_23Mar26-2.png")],
+[#image("lab-meeting_GBA1_23Mar26-3.png")]
+)
+
+#text(size: 10pt)[
+_As you can see, these are still quite rough, and in some cases there are only my sketches in place. The first set demonstrates the function of GCase and the sites of our mutations; the second demonstrates its synthesis and trafficking (assisted by LIMP2) to the lysosome (where SAPC acts as a co-factor)._]
