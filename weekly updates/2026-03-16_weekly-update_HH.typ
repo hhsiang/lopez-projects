@@ -7,17 +7,29 @@
 
 = Reprogramming PD07 fibroblasts to iPSCs
 
-I revised Jinny's existing protocol to begin reprogramming the PD07 fibroblasts (P6) to iPSCs, starting Monday (16Mar26). To begin, I prepared NM-RNA reprogramming cocktail and aliquoted it out (in 8.5-$mu$L volumes; each well takes 7.7 $mu$L) and stored in a box with my name on it in the -80$degree$C. I also prepared aliquots of the mir-200c solution in nuclease-free water (in 1-$mu$L volumes; although each well only requires 0.25 $mu$L, Bin informed me that the mir-200c is not expensive, and accuracy took priority over waste) and stored in the same box in the -80$degree$C.
+I revised Jinny's existing protocol to begin reprogramming the PD07 fibroblasts (P6) to iPSCs, starting Monday (16Mar26). To begin, I prepared NM-RNA reprogramming cocktail and aliquoted it out (in 8.5-$mu$L volumes; each well takes 7.7 $mu$L) and stored in a box with my name on it in the -80$degree$C. I also prepared an aliquot of the mir-200c solution in nuclease-free water (in a 2.2-$mu$L volume; although each well only requires 0.25 $mu$L, Bin informed me that the mir-200c is not expensive, and accuracy took priority over waste) and stored in the same box in the -80$degree$C. Over days 1--4, I ensure that media was changed in the morning (at 10:00AM) and transfection was initiated overnight (at 4:00PM), as directed. This is all detailed on my LabArchives.
 
 = PD07 fibroblast quality control
 
-In line with Figure 5 of the INTERACT package, I began quality control testing for the PD07 fibroblasts. The line is free from mycoplasma, bacterial, and endotoxin contamination (see attached).
+In line with Figure 5 of the INTERACT package, I began quality control testing for the PD07 fibroblasts. The line is free from mycoplasma, bacterial, and endotoxin contamination (see attached). I believe we can also assemble a figure of representative images of the PD07 fibroblasts in culture from our microscopy images, as in Figure 4 of the INTERACT package.
+
+= Gene editing and electroporation
+
+I made revised worksheets (with the correct kit \# and improved clarity) for GFP and gene editing electroporation protocols. I also made an explicit plan to complete establishing a strategy for gene editing in PD07 (namely, testing prime editors and mRNA delivery format); these documents are all attached here. Specific questions regarding Kiara's data and how to best proceed are indicated in #text(fill: red)[red] in the _gene editing planning_ document. I'll ennumerate them here as well, for convenience:
+
++ Are the "+21G" and "19mer" experiments that Kiara conducted different strategies to evade MMR (i.e., by installing concomitant silent edits near the targeted mutation site)?
++ How should I interpret the last slide from Kiara's presentation, which suggests that the conclusions from the HEK293T cells do not necessarily translate into primary cells? How should this inform our experimental planning?
++ Does it make more sense to test our intended conditions (prime editor, mRNA delivery format) sequentially (i.e., determine the most effective prime editor first, then the best mRNA delivery format) or combinatorically (i.e., test all possible combinations of PE+mRNA simultaneously)?
+
+= Miscellaneous
+
+I took care of the TC room: I cleaned all surfaces, checked the equipment, made up fresh 70% IPA (on Monday and Tuesday both), and added autoclaved MilliQ water to the incubators. Kritika and I surveyed the existing aliquots and made a list, especially noting the existing expired aliquots.
 
 #pagebreak()
 
 #table(columns: 1,
 [A.],
-[])
+[_BacT report will go here on Tuesday, 24Mar2026, after seven days._])
 #table(columns: 2,
 [B.],[C.],
 [#image("PD07-FB_P5_mycoplasma_testing_16Mar26.png")],
