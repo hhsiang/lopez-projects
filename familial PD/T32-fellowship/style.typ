@@ -4,8 +4,8 @@
     paper: "us-letter",
     margin: (
       top: 1in,
-      bottom: 1.25in,
-      x: 1.25in
+      bottom: 1in,
+      x: 1in
     ),
     numbering: "1",
     number-align: right
@@ -17,13 +17,13 @@
   )
   
   set text(
-    font: "New Computer Modern",
-    size: 12pt
+    font: "Times New Roman",
+    size: 11pt
   )
 
   set heading(numbering: "1.")
   
-  show math.equation: set text(font: "New Computer Modern Math")
+  show math.equation: set text(font: "Times New Roman")
 
   show heading: set text(
     size: 14pt
